@@ -1,0 +1,2 @@
+2023/03/01 11:48:32 Character :(12345)(010b5726-e9c2-4f60-86e6-c81fba5f6066) Bought consignment item (345347) with 999 gold from seller (meraba)(073665df-1b3e-45d7-b3ae-02be4734b6cf)
+2023/03/01 11:48:43 Character :(12345)(010b5726-e9c2-4f60-86e6-c81fba5f6066) Bought consignment item (345353) with 5 gold from seller (meraba)(073665df-1b3e-45d7-b3ae-02be4734b6cf)

@@ -1,0 +1,50 @@
+{
+  "Version": 1.1,
+  "General": {
+    "CloudInstanceName": "",
+    "Project": "",
+    "ProjectOwnerNavicatID": "",
+    "Server": "portable",
+    "Host": "localhost",
+    "Catalog": "kore",
+    "Schema": "hops",
+    "Comment": "",
+    "ServerType": "PGSQL",
+    "SpecifiedFileName": "",
+    "IsLockTable": false,
+    "UseSingleTransaction": false,
+    "UseSpecifiedFileName": false
+  },
+  "Tables": {
+    "SelectAll": true,
+    "Selected": []
+  },
+  "Views": {
+    "SelectAll": true,
+    "Selected": []
+  },
+  "Functions": {
+    "SelectAll": true,
+    "Selected": []
+  },
+  "Events": {
+    "SelectAll": false,
+    "Selected": []
+  },
+  "Sequences": {
+    "SelectAll": true,
+    "Selected": []
+  },
+  "Types": {
+    "SelectAll": true,
+    "Selected": []
+  },
+  "Indexes": {
+    "SelectAll": false,
+    "Selected": []
+  },
+  "Triggers": {
+    "SelectAll": false,
+    "Selected": []
+  }
+}
